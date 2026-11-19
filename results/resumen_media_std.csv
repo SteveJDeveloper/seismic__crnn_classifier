@@ -1,0 +1,18 @@
+,media ± std
+AP HB,0.313 ± 0.014
+AP VLP,0.824 ± 0.023
+AP VT,0.944 ± 0.004
+AP LP,0.952 ± 0.009
+AP medio,0.758 ± 0.008
+F1 macro (con ajuste),0.706 ± 0.013
+F1 macro (sin ajuste),0.518 ± 0.018
+Accuracy (con ajuste),0.889 ± 0.006
+Recall HB,0.320 ± 0.075
+Recall VLP,0.748 ± 0.017
+Recall VT,0.891 ± 0.025
+Recall LP,0.917 ± 0.016
+Prec. HB,0.299 ± 0.039
+Prec. VLP,0.678 ± 0.062
+Prec. VT,0.895 ± 0.012
+Prec. LP,0.923 ± 0.018
+tau elegido,0.520 ± 0.027
